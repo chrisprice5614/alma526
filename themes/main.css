@@ -120,6 +120,8 @@ h1{
     color: #333;
 }
 
+
+
 .navbar{
     padding-left: 10%;
     padding-right: 10%;
@@ -311,12 +313,12 @@ input[type=text], input[type='tel'], input[type='email'], textarea {
     text-indent: 12px;
 }
 
-.blog a{
+a{
     color: black;
     font-weight: 500;
 }
 
-.blog a:hover{
+a:hover{
     color: #444;
 }
 
