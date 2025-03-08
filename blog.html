@@ -9,26 +9,29 @@
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
     
-    <title>Echo of Me Family of Podcasts</title>
+    <title>Echo of Me Family of Podcasts | Blog</title>
 </head>
 <body>
     <script id="nav_replace" src="/nav.js"></script>
 
     <div class="container">
-        <h1>Can You Feel so Now?</h1>
-        <p>Conversations with very-recently returned missionaries of the Church of Jesus Christ of Latter-day Saints discussing changes of heart, spiritual growth, change, and challenges from their missions.To help you remember the feelings brought on by connecting with God that inspired you to make enduring positive changes.</p>
-        <br>
-
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/6MtfyopS7SlImtUcelsdlG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-        <br>
-        <button onclick="window.open('https://redcircle.com/shows/b53457c8-930e-45c1-b31c-ba2089abba03', '_blank');" type="submit" class="quoteButton" style="padding-top: 8px; padding-bottom: 8px; padding-left: 12px; padding-right: 12px;"><b>More Episodes</b></button>
-        <br>
-        <h1>Episodes with transcripts</h1>
+        <div class="name-badge">
+            Blog
+            <span class="subtitle">Conversations with Missionaries
+            and Recent Converts of
+            </span>
+            <span class="church-name">
+                <span class="line1">The Church of</span><br>
+                <span class="line2">Jesus Christ</span><br>
+                <span class="line3">of Latter-day Saints</span>
+            </span>
+        </div>
         <div id="replace-post"></div>
+
+        
     </div>
 
-    <script src="/canyoufeel.js"></script>
+    <script src="/blog.js"></script>
     <script>
         var container = document.querySelector("#replace-post");
         var index = 0;
@@ -37,7 +40,7 @@
 
         var html = `
             <div class="post-holder">
-                <a href="/transcript.html#${index}" >
+                <a href="/blogpost.html#${index}" >
                     <h4 class="post-title">
                         ${item.title}
                     </h4>
@@ -56,6 +59,10 @@
     }
     </script>
 
-    
+    <div class="socials">
+        <a href="https://www.facebook.com/cyfsn" target="_black"><ion-icon name="logo-facebook"></ion-icon></a>
+        <a href="https://www.instagram.com/canyoufeelsonow/" target="_black"><ion-icon name="logo-instagram"></ion-icon></a>
+    </div>
+
 </body>
 </html>
