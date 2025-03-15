@@ -1,5 +1,12 @@
 var items = [
     {
+        title: "Tanner Johnson",
+        link: "/transcripts/tannerj.html",
+        img: "/blog/tannerj/0.jpg",
+        spotify: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7cUOb8WLbJPSY7fmYkOyDG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>',
+        type: "cyfsn"
+    },
+    {
         title: "Nora Campbell",
         link: "/transcripts/noracam.html",
         img: "/blog/noracam/0.jpg",
