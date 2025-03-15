@@ -28,13 +28,15 @@
         <div id="replace-post"></div>
     </div>
 
-    <script src="/canyoufeel.js"></script>
+    <script src="/transcripts.js"></script>
     <script>
         var container = document.querySelector("#replace-post");
         var index = 0;
 
         for (let item of items) {
 
+        if(item.type == "cyfsn")
+        {
         var html = `
             <div class="post-holder">
                 <a href="/transcript.html#${index}" >
@@ -52,6 +54,7 @@
         `
 
         container.insertAdjacentHTML('beforeend', html);
+        }
         index++;
     }
     </script>
