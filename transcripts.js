@@ -1,5 +1,12 @@
 var items = [
     {
+        title: "Ryan Sandford",
+        link: "/transcripts/rsandford.html",
+        img: "/blog/rsandford/0.jpg",
+        spotify: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5ZTl3AtUBKxcI48XMAJTpB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>',
+        type: "cyfsn"
+    },
+    {
         title: "Tanner Johnson",
         link: "/transcripts/tannerj.html",
         img: "/blog/tannerj/0.jpg",
