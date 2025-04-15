@@ -1,5 +1,10 @@
 var items = [
     {
+        title: "Can You Feel So Now, Elizabeth Carey?",
+        link: "/blog/ecarey/blog.html",
+        img: "/blog/ecarey/0.jpg"
+    },
+    {
         title: "Finding Faith and Purpose: Ryan Sanford's Journey",
         link: "/blog/rsandford/blog.html",
         img: "/blog/rsandford/0.jpg"

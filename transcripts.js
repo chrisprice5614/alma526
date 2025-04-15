@@ -1,5 +1,19 @@
 var items = [
     {
+        title: "Elizabeth Carey",
+        link: "/transcripts/ecarey.html",
+        img: "/transcripts/ecarey.jpeg",
+        spotify: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2AcfRkpV2guI801b88c5hN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>',
+        type: "cyfsn"
+    },
+    {
+        title: "Emma Mann",
+        link: "/transcripts/emmamann.html",
+        img: "/transcripts/emann.jpeg",
+        spotify: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4aXAhDROjUUsGPo8qhnvZe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>',
+        type: "cyfsn"
+    },
+    {
         title: "Ryan Sandford",
         link: "/transcripts/rsandford.html",
         img: "/blog/rsandford/0.jpg",
