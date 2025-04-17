@@ -20,7 +20,7 @@ var items = [
         img: "/blog/noracam/0.jpg"
     },
     {
-        title: "A Journey of Spiritual Strngth: Rachel Smith's Mission",
+        title: "A Journey of Spiritual Strngth: Rachel Stumm's Mission",
         link: "/blog/rachels/blog.html",
         img: "/blog/rachels/image001.jpg"
     },
