@@ -1,5 +1,20 @@
 var items = [
     {
+        title: "Embracing Faith and Growth: A Journey with Alaya Garcia",
+        link: "/blog/agarcia/blog.html",
+        img: "/blog/agarcia/01.jpg"
+    },
+    {
+        title: "Embracing Change and Finding Faith: Emma Caldwell's Inspiring Journey",
+        link: "/blog/ecaldwell/blog.html",
+        img: "/blog/ecaldwell/01.jpg"
+    },
+    {
+        title: "Lessons of Faith and Resilience: A Conversation with Cameron Hales",
+        link: "/blog/chales/blog.html",
+        img: "/blog/chales/01.jpg"
+    },
+    {
         title: "Can You Feel So Now, Elizabeth Carey?",
         link: "/blog/ecarey/blog.html",
         img: "/blog/ecarey/0.jpg"
@@ -20,7 +35,7 @@ var items = [
         img: "/blog/noracam/0.jpg"
     },
     {
-        title: "A Journey of Spiritual Strngth: Rachel Stumm's Mission",
+        title: "A Journey of Spiritual Strngth: Rachel Smith's Mission",
         link: "/blog/rachels/blog.html",
         img: "/blog/rachels/image001.jpg"
     },

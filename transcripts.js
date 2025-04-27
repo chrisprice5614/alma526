@@ -1,5 +1,26 @@
 var items = [
     {
+        title: "Alaya Garcia",
+        link: "/transcripts/agarcia.html",
+        img: "/blog/agarcia/01.jpg",
+        spotify: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5JuHdYXtxMsesN1WA3y60t?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>',
+        type: "cyfsn"
+    },
+    {
+        title: "Emma Caldwell",
+        link: "/transcripts/ecaldwell.html",
+        img: "/blog/ecaldwell/01.jpg",
+        spotify: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6XZFIAitTdgRtkpALgFliX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>',
+        type: "cyfsn"
+    },
+    {
+        title: "Cameron Hales",
+        link: "/transcripts/chales.html",
+        img: "/blog/chales/01.jpg",
+        spotify: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0PztrR96Pel4ye9Yfa5J0h?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>',
+        type: "cyfsn"
+    },
+    {
         title: "Elizabeth Carey",
         link: "/transcripts/ecarey.html",
         img: "/transcripts/ecarey.jpeg",
