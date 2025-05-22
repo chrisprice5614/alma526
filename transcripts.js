@@ -1,5 +1,19 @@
 var items = [
     {
+        title: "Maycee Leavitt",
+        link: "/transcripts/mleavitt.html",
+        img: "/media/images/mleavitt.jpg",
+        spotify: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2MoI1EKfzXxEhF3r85jl3j?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>',
+        type: "cyfsn"
+    },
+    {
+        title: "Josh Vavla",
+        link: "/transcripts/jvavla.html",
+        img: "/media/images/jvavla.jpg",
+        spotify: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0dgRw7jG4PvZjUhnqbE13z?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>',
+        type: "cyfsn"
+    },
+    {
         title: "Alaya Garcia",
         link: "/transcripts/agarcia.html",
         img: "/blog/agarcia/01.jpg",
